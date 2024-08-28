@@ -20,4 +20,4 @@ git clone https://github.com/Jenil1412/WordCounter.git
 Install the required dependencies:
 pip install -r requirements.txt
 Run the application:
-python wordcounter.py
+python Wordcounter.py
